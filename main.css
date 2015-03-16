@@ -1,0 +1,46 @@
+li {
+	display: inline;
+	padding: 05px 05px 05px 05px;
+}
+
+ul {
+	display: inline;
+}
+
+p {
+	display: inline;
+}
+
+#header {
+	margin-left: 950px;
+}
+
+a {
+	text-decoration: none;
+}
+
+img {
+	margin-top: 160px;
+	margin-left: 400px;
+}
+
+form {
+	margin-left: 350px;
+}
+
+#button {
+	margin-left: 180px;
+}
+
+.lang p{
+	margin-left: 450px;
+}
+
+.yeda {
+	margin-left: 700px;
+}
+
+.footer {
+	padding: 20px;
+	background-color: #d9d9d9
+}
